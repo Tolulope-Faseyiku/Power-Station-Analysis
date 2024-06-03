@@ -1,2 +1,2 @@
 # POWER STATION ANALYSIS
-![Power Station](assets/images/profile_pic.jpg)
+![Power Station](assets/images/Station image.png)
