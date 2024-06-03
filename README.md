@@ -9,3 +9,7 @@
 -  Development
   i. Pseudocode
 
+| Syntax | Description |
+| ----------- | ----------- |
+| Header | Title |
+| Paragraph | Text |
