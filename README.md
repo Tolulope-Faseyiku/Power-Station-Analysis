@@ -4,5 +4,8 @@
 -  Objectives
 -  Data Source
 -  Stages
+-  Tools
 -  Design
-  Mock up
+-  Development
+  i. Pseudocode
+
