@@ -7,9 +7,6 @@
 -  Tools
 -  Design
 -  Development
-  i. Pseudocode
+-  [Underline](#underline)
 
-| Syntax | Description |
-| ----------- | ----------- |
-| Header | Title |
-| Paragraph | Text |
+
