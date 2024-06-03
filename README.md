@@ -1,2 +1,2 @@
 # POWER STATION ANALYSIS
-![alt text](assets/images/Station image.png)
+![Power Station](assets/images/Station image.png)
