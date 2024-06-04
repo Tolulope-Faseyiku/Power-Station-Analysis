@@ -5,18 +5,18 @@
 - [DATA SOURCE](#underline)
 - [STAGES](#underline)
 - [DESIGN](#underline)
-- [Tools](#underline)
-- [Steps](#underline)
+- [TOOLS](#underline)
+- [STEPS](#underline)
   -  Algorithm Outline
   -  Data Exploration
   -  Data Cleaning
   -  Creating SQL view for import into Power BI for visualization
-- [Visualization](#underline)
+- [VISUALIZATION](#underline)
   -  Results
   -  Dax Measures
-- [Analysis](#underline)
-- [Recommendations](#underline)
-- [Conclusions](#underline)
+- [ANALYSIS](#underline)
+- [RECOMMENDATIONS](#underline)
+- [CONCLUSIONS](#underline)
 
 
 ## OBJECTIVES
