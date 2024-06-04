@@ -60,8 +60,11 @@ The dashboard requirements formed the basis of my analysis, and they asked the f
 ## STEPS
 ### Algorithm Outline
 The general approach to the project is listed below:
-  i.  Data extraction
-  ii.  Data exploration in Excel
+i. Introduction
+ii. Background
+iii. Methodology
+iv. Results
+v. Conclusion
 
 
 ### Data Exploration
