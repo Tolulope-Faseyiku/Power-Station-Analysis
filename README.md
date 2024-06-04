@@ -8,4 +8,7 @@
 - [Tools](#underline)
 - [Steps](#underline)
   -  Algorithm Outline
+  -  Data Exploration
+  -  Data Cleaning
+  -  Creating SQL view for import into Power BI for visualization
 
