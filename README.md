@@ -71,7 +71,8 @@ The general approach to the project is listed below:
 
 
 ### Data Exploration
-Content for data exploration...
+At first glance, the downloaded data from [Renewable Energy Planning Database (REPD)](https://www.gov.uk/government/publications/renewable-energy-planning-database-monthly-extract)
+
 
 ### Data Cleaning
 Content for data cleaning...
