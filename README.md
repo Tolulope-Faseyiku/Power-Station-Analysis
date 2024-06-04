@@ -38,12 +38,15 @@ The data for this project can be downloaded from [Renewable Energy Planning Data
 
 ## TOOLS
 
-|  Tools          |  Purpose                                                            |
-|-----------------|---------------------------------------------------------------------|
-|  Microsoft Excel  |  Data Exploration                      |
-|  SQL Server  |  Data cleaning and transformation  |
-|  Microsoft Power BI  |  Data transformation and visualization via interactive dashboard  |
-|  GitHub  |  Hosting project documentation and version control  |
+| Tools             | Purpose                                                           |
+|-------------------|-------------------------------------------------------------------|
+| Microsoft Excel   | Data Exploration                                                  |
+| SQL Server        | Data cleaning and transformation                                 |
+| Microsoft Power BI| Data transformation and visualization via interactive dashboard |
+| GitHub            | Hosting project documentation and version control                 |
+
+
+
 ## DESIGN
 Content for design...
 
