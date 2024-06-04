@@ -26,7 +26,10 @@ This project contains data from the Renewable Energy Planning Database (REPD), m
 The project aims to analyse regions with the most power projects, trends in power capacity, station status (Operational or otherwise) and regional breakdown of projects allocated and installed.
 
 ## DATA SOURCE
-Content for data source...
+The data used for this project was pulled from the Renewable Energy Planning Database (REPD), the database has over 50 columns but I only needed to pull columns that had the following data 
+-  Project location
+-  Operational status
+-  Power capacity.  
 
 ## STAGES
 Content for stages...
