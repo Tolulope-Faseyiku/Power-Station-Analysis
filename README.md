@@ -5,8 +5,8 @@
 ## TABLE OF CONTENTS
 - [OBJECTIVES](#objectives)
 - [DATA SOURCE](#data-source)
-- [DESIGN](#design)
 - [TOOLS](#tools)
+- [DESIGN](#design)
 - [STEPS](#steps)
   - [Algorithm Outline](#algorithm-outline)
   - [Data Exploration](#data-exploration)
