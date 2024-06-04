@@ -2,5 +2,10 @@
 ![Power Station](assets/images/Station_image.png)
 ## TABLE OF CONTENTS
 - [Objectives](#underline)
-  - [Underline](#underline)
+- [Data Source](#underline
+- [Stages](#underline
+- [Design](#underline
+- [Tools](#underline)
+- [Steps](#underline)
+  -  Algorithm Outline
 
