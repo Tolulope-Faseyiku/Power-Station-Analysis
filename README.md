@@ -5,7 +5,6 @@
 ## TABLE OF CONTENTS
 - [OBJECTIVES](#objectives)
 - [DATA SOURCE](#data-source)
-- [STAGES](#stages)
 - [DESIGN](#design)
 - [TOOLS](#tools)
 - [STEPS](#steps)
