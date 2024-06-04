@@ -1,10 +1,10 @@
 # POWER STATION ANALYSIS
 ![Power Station](assets/images/Station_image.png)
 ## TABLE OF CONTENTS
-- [Objectives](#underline)
-- [Data Source](#underline)
-- [Stages](#underline)
-- [Design](#underline)
+- [OBJECTIVES](#underline)
+- [DATA SOURCE](#underline)
+- [STAGES](#underline)
+- [DESIGN](#underline)
 - [Tools](#underline)
 - [Steps](#underline)
   -  Algorithm Outline
