@@ -34,7 +34,7 @@ The data used for this project was pulled from the Renewable Energy Planning Dat
 -  Operational status
 -  Power capacity
 
-The data for this project can be downloaded from [Renewable Energy Planning Database (REPD)](https://www.gov.uk/government/publications/renewable-energy-planning-database-monthly-extract)
+The data for this project can be downloaded from the [Renewable Energy Planning Database (REPD)](https://www.gov.uk/government/publications/renewable-energy-planning-database-monthly-extract)
 
 ## TOOLS
 
@@ -71,7 +71,7 @@ The general approach to the project is listed below:
 
 
 ### Data Exploration
-At first glance, the downloaded data from [Renewable Energy Planning Database (REPD)](https://www.gov.uk/government/publications/renewable-energy-planning-database-monthly-extract)
+At first glance, the downloaded data from the [Renewable Energy Planning Database (REPD)](https://www.gov.uk/government/publications/renewable-energy-planning-database-monthly-extract) was about 3.58 MB in size with the table having over fifty columns of data, the data was not consistent with formatting and it had missing values in some columns.
 
 
 ### Data Cleaning
