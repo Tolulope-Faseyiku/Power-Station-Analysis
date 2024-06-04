@@ -20,5 +20,5 @@
 
 
 ## OBJECTIVES
-This project contains data from the Renewable Energy Planning Database (REPD)    
+This project contains data from the Renewable Energy Planning Database (REPD), managed by Barbour ABI on behalf of the Department of Business, Energy and Industrial Strategies 
 
