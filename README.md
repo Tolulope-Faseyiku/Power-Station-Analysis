@@ -11,4 +11,11 @@
   -  Data Exploration
   -  Data Cleaning
   -  Creating SQL view for import into Power BI for visualization
+- [Visualization](#underline)
+  -  Results
+  -  Dax Measures
+- [Analysis](#underline)
+- [Recommendations](#underline)
+- [Conclusions](#underline)
+ 
 
