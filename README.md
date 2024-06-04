@@ -41,6 +41,7 @@ The data for this project can be downloaded from [Renewable Energy Planning Data
 |  Tools          |  Purpose                                                            |
 |-----------------|---------------------------------------------------------------------|
 |  Microsoft Excel  |  Data Exploration                      |
+|  SQL Server  |  Data cleaning and transformation  |
 ## DESIGN
 Content for design...
 
