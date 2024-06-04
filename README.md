@@ -40,6 +40,7 @@ The data for this project can be downloaded from [Renewable Energy Planning Data
 
 |  Tools          |  Purpose                                                            |
 |-----------------|---------------------------------------------------------------------|
+|  Microsoft Excel  |  Data Exploration                      |
 ## DESIGN
 Content for design...
 
