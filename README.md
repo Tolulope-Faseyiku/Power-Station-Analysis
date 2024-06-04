@@ -20,5 +20,5 @@
 
 
 ## OBJECTIVES
-This project contains data from the Renewable Energy Planning Database (REPD), managed by Barbour ABI on behalf of the Department of Business, Energy and Industrial Strategies 
+This project contains data from the Renewable Energy Planning Database (REPD), managed by Barbour ABI on behalf of the Department of Business, Energy and Industrial Strategies (BEIS). The last update of the database was for the first quarter of 2024 and it tracks the progress of renewable electricity projects. 
 
