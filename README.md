@@ -60,15 +60,15 @@ The dashboard requirements formed the basis of my analysis, and they asked the f
 ## STEPS
 ### Algorithm Outline
 The general approach to the project is listed below:
-Algorithm Outline
-The general approach to the project is listed below:
-
-I. Introduction
-II. Background
-III. Methodology
-IV. Results
-V. Conclusion
-
+-  Data extraction
+-  Data exploration in Excel
+-  Load the data into the SQL Server environment
+-  Perform data cleaning and transformation operations within the SQL Server environment to ensure the quality, integrity and consistency of the dataset.
+-  Create an SQL view to aggregate, transform, or subset the dataset in a manner conducive to analysis in Power BI.
+-  Utilize Power BI to perform comprehensive analysis and visualization of the dataset
+-  Analyze the insights gained from the data analysis and visualization process to generate actionable findings and recommendations.
+-  Write comprehensive documentation for the project, including detailed explanations of the data sources, methodology, analysis techniques, results, and conclusions
+-  Publish the project data and associated documentation to GitHub Pages for public access and dissemination.  
 
 
 ### Data Exploration
