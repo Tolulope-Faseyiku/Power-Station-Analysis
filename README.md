@@ -57,12 +57,12 @@ The dashboard requirements formed the basis of my analysis, and they asked the f
 -  Which region had the most operational and non-operational projects?   
 
 
-## TOOLS
-Content for tools...
-
 ## STEPS
 ### Algorithm Outline
-Content for algorithm outline...
+The general approach to the project is listed below:
+i.  Data extraction
+ii.  Data exploration in Excel
+
 
 ### Data Exploration
 Content for data exploration...
