@@ -34,11 +34,12 @@ The data used for this project was pulled from the Renewable Energy Planning Dat
 -  Operational status
 -  Power capacity
 
-The data can be for this project can be downloaded from [Renewable Energy Planning Database (REPD)](https://www.gov.uk/government/publications/renewable-energy-planning-database-monthly-extract)
+The data for this project can be downloaded from [Renewable Energy Planning Database (REPD)](https://www.gov.uk/government/publications/renewable-energy-planning-database-monthly-extract)
 
-## STAGES
-Content for stages...
+## TOOLS
 
+|  Tools  |  Purpose  |
+|----------|-----------|
 ## DESIGN
 Content for design...
 
