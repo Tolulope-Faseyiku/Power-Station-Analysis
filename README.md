@@ -39,7 +39,7 @@ The data for this project can be downloaded from [Renewable Energy Planning Data
 ## TOOLS
 
 |  Tools  |  Purpose  |
-|----------|-----------|
+|-----------------|-------------------------------------------------------------------------------------------|
 ## DESIGN
 Content for design...
 
