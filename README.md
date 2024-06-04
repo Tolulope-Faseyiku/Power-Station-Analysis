@@ -60,9 +60,8 @@ The dashboard requirements formed the basis of my analysis, and they asked the f
 ## STEPS
 ### Algorithm Outline
 The general approach to the project is listed below:
--  Data extraction
--  Data exploration in Excel
--  Load the data into the SQL Server environment
+-  Perform data extraction from the source systems or data repositories to retrieve the necessary datasets for analysis.
+-  Transfer the extracted datasets into the SQL Server environment for storage and analysis
 -  Perform data cleaning and transformation operations within the SQL Server environment to ensure the quality, integrity and consistency of the dataset.
 -  Create an SQL view to aggregate, transform, or subset the dataset in a manner conducive to analysis in Power BI.
 -  Utilize Power BI to perform comprehensive analysis and visualization of the dataset
