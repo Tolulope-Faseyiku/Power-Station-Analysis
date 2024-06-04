@@ -68,12 +68,4 @@ Content for conclusions...
 
 
 
-## OBJECTIVES
-This project contains data from the Renewable Energy Planning Database (REPD), managed by Barbour ABI on behalf of the Department of Business, Energy and Industrial Strategies (BEIS). The last update of the database was for the first quarter of 2024. It tracks the progress of renewable electricity projects in the United Kingdom from inception, through planning, construction, operation and decommissioning. It contains information on all Renewable Electricity and CHP (Combined Heat and Power) Projects in the United Kingdom. 
-
-The project aims to analyse regions with the most power projects, trends in power capacity, station status (Operational or otherwise) and regional breakdown of projects allocated and installed.
-
-
-
-## DATA SOURCE
 
