@@ -60,12 +60,12 @@ The dashboard requirements formed the basis of my analysis, and they asked the f
 ## STEPS
 ### Algorithm Outline
 The general approach to the project is listed below:
+I. Introduction
+II. Background
+III. Methodology
+IV. Results
+V. Conclusion
 
-i. Introduction
-ii. Background
-iii. Methodology
-iv. Results
-v. Conclusion
 
 
 ### Data Exploration
