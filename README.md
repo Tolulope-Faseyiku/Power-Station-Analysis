@@ -48,7 +48,10 @@ The data for this project can be downloaded from [Renewable Energy Planning Data
 
 
 ## DESIGN
-Content for design...
+
+### Dashboard Requirements
+The dashboard requirements formed the basis of my analysis, and they asked the following question:
+
 
 ## TOOLS
 Content for tools...
