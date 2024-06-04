@@ -1,6 +1,7 @@
 # RENEWABLE ELECTRICITY PROJECTS ANALYSIS
 ![Power Station](assets/images/Station_image.png)
 
+
 ## TABLE OF CONTENTS
 - [OBJECTIVES](#objectives)
 - [DATA SOURCE](#data-source)
