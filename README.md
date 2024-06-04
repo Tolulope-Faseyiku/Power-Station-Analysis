@@ -33,7 +33,9 @@ The project aims to analyse:
 The data used for this project was pulled from the Renewable Energy Planning Database (REPD), the database has over 50 columns but I only needed to pull columns that had the following data: 
 -  Project location
 -  Operational status
--  Power capacity.  
+-  Power capacity
+
+The data can be for this project can be downloaded from [Renewable Energy Planning Database (REPD)](https://www.gov.uk/government/publications/renewable-energy-planning-database-monthly-extract)
 
 ## STAGES
 Content for stages...
