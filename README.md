@@ -78,8 +78,10 @@ The data was accurate but incomplete due to the missing values. I immediately st
 The columns had the basic data needed as regards project location, operational status and power capacity, they just needed to be cleaned, prepared and properly formatted. 
 
 ### Data Cleaning
-Clean data is consistent, with uniform formats and standardized values. It is accurate, reflecting correct and verified entries. Completeness is ensured by having no missing values or appropriately handled ones. Validity is maintained by conforming to rules and logical coherence. Additionally, clean data is unique, free from duplicates, and relevant, containing only necessary information for analysis.
+In context, Clean data should be consistent with uniform formats and standardized values, completeness is also ensured by having no missing values or handling them appropriately. Clean data should also be unique and be free of duplicates and only contain relevant information for analysis.
 
+The aim was to refine the dataset to ensure proper structure and analysis. The cleaned data should meet the following requirements: 
+-  
 ### Creating SQL view for import into Power BI for visualization
 Content for creating SQL view for import into Power BI for visualization...
 
