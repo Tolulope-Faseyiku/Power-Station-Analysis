@@ -148,6 +148,9 @@ WHERE Record_Last_Updated_dd_mm_yyyy is not null
   
 ## VISUALIZATION
 ### Results
+
+Three interactive dashboards were created
+![Interactive dashboard](assets/images/power_installed.mp4)
 Content for results...
 
 ### Dax Measures
