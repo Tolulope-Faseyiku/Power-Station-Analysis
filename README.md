@@ -124,7 +124,23 @@ FROM repd_II
 WHERE Record_Last_Updated_dd_mm_yyyy is not null;
 ```
 
-
+```SQL
+-- CREATE VIEW
+CREATE VIEW RENEWABLE AS
+SELECT
+	Old_Ref_ID AS Ref_ID, Record_Last_Updated_dd_mm_yyyy AS Updated,
+	Operator_or_Applicant AS Operator, Site_Name AS Site,
+	Technology_Type AS Tech, Storage_Type AS Storage, 
+	Installed_Capacity_MWelec AS 'Capacity Installed(MW)', CfD_Capacity_MW AS 'Capacity Agreed(MW)',
+	CHP_Enabled AS 'CHP?', CfD_Allocation_Round AS 'Allocation Round',	
+	No_of_Turbines AS Turbines,
+	Development_Status_short AS Status,
+	County, Region, Country,
+	Post_Code, X_coordinate,Y_coordinate,
+	Planning_Authority
+FROM repd_II
+WHERE Record_Last_Updated_dd_mm_yyyy is not null
+```
 
 
   
