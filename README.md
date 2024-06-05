@@ -150,9 +150,8 @@ WHERE Record_Last_Updated_dd_mm_yyyy is not null
 ### Results
 
 Three interactive dashboards were created
+https://github.com/Tolulope-Faseyiku/renewable-electricity-projects-analysis/assets/143544753/67f8851d-374d-431f-814a-ad16bb99bc39
 
-[Interactive Dashboard](https://github.com/Tolulope-Faseyiku/renewable-electricity-projects-analysis/raw/main/assets/images/power_installed.mp4)
-Content for results...
 
 ### Dax Measures
 Content for dax measures...
