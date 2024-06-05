@@ -87,6 +87,13 @@ The aim was to refine the dataset to ensure proper structure and analysis. The c
 -  Where possible, rename columns to have simple, correct, and readable names.
 
 ####  Steps and SQL scripts for data cleaning
+```SQL
+--VIEW WHOLE TABLE
+SELECT *
+FROM repd_II;
+GO
+```
+
 
   
 ### Creating SQL view for import into Power BI for visualization
