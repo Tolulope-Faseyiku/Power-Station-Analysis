@@ -146,8 +146,6 @@ WHERE Record_Last_Updated_dd_mm_yyyy is not null
 
 
   
-Content for creating SQL view for import into Power BI for visualization...
-
 ## VISUALIZATION
 ### Results
 Content for results...
