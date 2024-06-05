@@ -62,16 +62,21 @@ The dashboard requirements formed the basis of my analysis, and they asked the f
 The general approach to the project is listed below:
 -  Perform data extraction from the source systems or data repositories to retrieve the necessary datasets for analysis.
 -  Transfer the extracted datasets into the SQL Server environment for storage and analysis
--  Perform data cleaning and transformation operations within the SQL Server environment to ensure the quality, integrity and consistency of the dataset.
+-  Perform data cleaning and transformation operations within the SQL Server environment to ensure the dataset's quality, integrity and consistency.
 -  Create an SQL view to aggregate, transform, or subset the dataset in a manner conducive to analysis in Power BI.
 -  Utilize Power BI to perform comprehensive analysis and visualization of the dataset
--  Analyze the insights gained from the data analysis and visualization process to generate actionable findings and recommendations.
+-  Analyze the insights from the data analysis and visualization process to generate actionable findings and recommendations.
 -  Write comprehensive documentation for the project, including detailed explanations of the data sources, methodology, analysis techniques, results, and conclusions
 -  Publish the project data and associated documentation to GitHub Pages for public access and dissemination.  
 
 
 ### Data Exploration
-At first glance, the downloaded data from the [Renewable Energy Planning Database (REPD)](https://www.gov.uk/government/publications/renewable-energy-planning-database-monthly-extract) was about 3.58 MB in size with the table having over fifty columns of data, the data was not consistent with formatting and it had missing values in some columns.
+At first glance, the downloaded data from the [Renewable Energy Planning Database (REPD)](https://www.gov.uk/government/publications/renewable-energy-planning-database-monthly-extract) was about 3.58 MB in size with the table having over fifty columns ane more than ten thousand rows of data, the data was not consistent with formatting and it had missing values in some columns.
+
+The data was accurate but incomplete due to the missing values and I immediately started thinking of ways to clean, correct and upgrade the data in terms of accuracy, quality, completeness and reliability.
+
+
+
 
 
 ### Data Cleaning
