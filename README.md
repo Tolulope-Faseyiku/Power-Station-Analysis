@@ -94,6 +94,19 @@ FROM repd_II;
 GO
 ```
 
+```SQL
+-- REMOVE UNWANTED COLUMNS
+SELECT
+    Old_Ref_ID, Record_Last_Updated_dd_mm_yyyy, Operator_or_Applicant,
+    Site_Name, Technology_Type, Storage_Type, Installed_Capacity_MWelec,
+    CHP_Enabled, CfD_Allocation_Round, CfD_Capacity_MW, Turbine_Capacity_MW,
+    No_of_Turbines, Mounting_Type_for_Solar, Development_Status_short,
+    County, Region, Country, Post_Code, X_coordinate, Y_coordinate,
+    Planning_Authority
+FROM repd_II;
+GO
+```
+
 
   
 ### Creating SQL view for import into Power BI for visualization
