@@ -107,6 +107,7 @@ FROM repd_II;
 GO
 ```
 
+```SQL
 -- RENAME COLUMNS
 SELECT
     Old_Ref_ID AS Ref_ID, Record_Last_Updated_dd_mm_yyyy AS Updated,
@@ -121,6 +122,7 @@ SELECT
     Planning_Authority
 FROM repd_II
 WHERE Record_Last_Updated_dd_mm_yyyy is not null;
+```
 
 
 
