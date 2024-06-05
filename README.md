@@ -94,6 +94,8 @@ FROM repd_II;
 GO
 ```
 
+
+
 ```SQL
 -- REMOVE UNWANTED COLUMNS
 SELECT
