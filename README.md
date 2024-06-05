@@ -80,8 +80,13 @@ The columns had the basic data needed as regards project location, operational s
 ### Data Cleaning
 In context, Clean data should be consistent with uniform formats and standardized values, completeness is also ensured by having no missing values or handling them appropriately. Clean data should also be unique and be free of duplicates and only contain relevant information for analysis.
 
-The aim was to refine the dataset to ensure proper structure and analysis. The cleaned data should meet the following requirements: 
--  
+The aim was to refine the dataset to ensure proper structure and analysis. The clean data should meet the following requirements:
+-  Only relevant columns should be retained.
+-  All data types should be appropriate to the contents of each column.
+-  The columns should not have null values, null or missing values should be handled properly and documented.
+-  Where possible, rename columns to have simple, correct, and readable names.
+
+  
 ### Creating SQL view for import into Power BI for visualization
 Content for creating SQL view for import into Power BI for visualization...
 
