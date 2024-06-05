@@ -73,14 +73,12 @@ The general approach to the project is listed below:
 ### Data Exploration
 At first glance, the downloaded data from the [Renewable Energy Planning Database (REPD)](https://www.gov.uk/government/publications/renewable-energy-planning-database-monthly-extract) was about 3.58 MB in size with the table having over fifty columns ane more than ten thousand rows of data, the data was not consistent with formatting and it had missing values in some columns.
 
-The data was accurate but incomplete due to the missing values and I immediately started thinking of ways to clean, correct and upgrade the data in terms of accuracy, quality, completeness and reliability.
+The data was accurate but incomplete due to the missing values. I immediately started thinking of ways to clean, correct and upgrade the data in terms of accuracy, quality, completeness and reliability.
 
-
-
-
+The columns had the basic data needed as regards project location, operational status and power capacity, they just needed to be cleaned, prepared and properly formatted. 
 
 ### Data Cleaning
-Content for data cleaning...
+Clean data is consistent, with uniform formats and standardized values. It is accurate, reflecting correct and verified entries. Completeness is ensured by having no missing values or appropriately handled ones. Validity is maintained by conforming to rules and logical coherence. Additionally, clean data is unique, free from duplicates, and relevant, containing only necessary information for analysis.
 
 ### Creating SQL view for import into Power BI for visualization
 Content for creating SQL view for import into Power BI for visualization...
