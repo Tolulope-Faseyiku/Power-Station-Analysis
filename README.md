@@ -86,6 +86,8 @@ The aim was to refine the dataset to ensure proper structure and analysis. The c
 -  The columns should not have null values, null or missing values should be handled properly and documented.
 -  Where possible, rename columns to have simple, correct, and readable names.
 
+####  Steps and SQL scripts for data cleaning
+
   
 ### Creating SQL view for import into Power BI for visualization
 Content for creating SQL view for import into Power BI for visualization...
