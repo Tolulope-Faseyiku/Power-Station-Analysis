@@ -151,7 +151,7 @@ WHERE Record_Last_Updated_dd_mm_yyyy is not null
 
 Three interactive dashboards were created
 
-[![Interactive Dashboard](https://via.placeholder.com/150)](https://github.com/johndoe/project-demo/raw/main/assets/images/power_installed.mp4)
+[Interactive Dashboard](https://github.com/Tolulope-Faseyiku/renewable-electricity-projects-analysis/raw/main/assets/images/power_installed.mp4)
 Content for results...
 
 ### Dax Measures
