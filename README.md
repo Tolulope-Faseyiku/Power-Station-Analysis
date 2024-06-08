@@ -84,7 +84,7 @@ The aim was to refine the dataset to ensure proper structure and analysis. The c
 -  Only relevant columns should be retained.
 -  All data types should be appropriate to the contents of each column.
 -  The columns should not have null values, null or missing values should be handled properly and documented.
--  Where possible, rename columns to have simple, correct, and readable names.
+-  Rename columns with simple, correct, and readable names where possible.
 
 ####  Steps and SQL scripts for data cleaning
 ```SQL
@@ -150,6 +150,7 @@ WHERE Record_Last_Updated_dd_mm_yyyy is not null
 ### Results
 
 Three interactive dashboards were created
+https://github.com/Tolulope-Faseyiku/renewable-electricity-projects-analysis/assets/143544753/084c8ddf-f84f-47b2-9977-1c20093cadb5
 
 
 ### Dax Measures
