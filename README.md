@@ -149,11 +149,16 @@ WHERE Record_Last_Updated_dd_mm_yyyy is not null
 ## VISUALIZATION
 ### Results
 
-![Power Station](assets/images/power_page.png)<br><br>
+<p>
+  <img src="assets/images/power_page.png" alt="Power Station" style="margin-bottom: 20px;">
+</p>
+<p>
+  <img src="assets/images/station_status.png" alt="Power Station" style="margin-bottom: 20px;">
+</p>
+<p>
+  <img src="assets/images/regional_analysis.png" alt="Power Station">
+</p>
 
-![Power Station](assets/images/station_status.png)<br><br>
-
-![Power Station](assets/images/regional_analysis.png)
 
 
 Three interactive dashboards were created
