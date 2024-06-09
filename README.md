@@ -150,10 +150,10 @@ WHERE Record_Last_Updated_dd_mm_yyyy is not null
 ### Results
 
 <p>
-  <img src="assets/images/power_page.png" alt="Power Station" style="margin-bottom: 60px;">
+  <img src="assets/images/power_page.png" alt="Power Station" style="margin-bottom: 100px;">
 </p>
 <p>
-  <img src="assets/images/station_status.png" alt="Power Station" style="margin-bottom: 60px;">
+  <img src="assets/images/station_status.png" alt="Power Station" style="margin-bottom: 100px;">
 </p>
 <p>
   <img src="assets/images/regional_analysis.png" alt="Power Station">
