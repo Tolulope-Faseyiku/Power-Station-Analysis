@@ -168,6 +168,14 @@ Three interactive dashboards were created showing the analysis results regarding
 
 
 ### Dax Measures
+
+
+When rendered, it will look like this:
+
+```dax
+Non-Operational Count = CALCULATE(
+                            COUNT(RENEWABLE[Station Status]), RENEWABLE[Station Status] = "Not Operational")
+
 Content for dax measures...
 
 ## ANALYSIS
