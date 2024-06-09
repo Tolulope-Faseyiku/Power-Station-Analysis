@@ -171,11 +171,28 @@ Three interactive dashboards were created showing the analysis results regarding
 
 
 ```
-Number of Projects = COUNTROWS(RENEWABLE)
+Total Projects = COUNTROWS(RENEWABLE)
 ```
 
+```
+Total power capacity = SUM(RENEWABLE[Capacity Installed(MW)])
+```
 
+```
+Station Status = IF(RENEWABLE[Status] = "Operational",
+                    "Operational",
+                    "Not Operational")
+```
 
+```
+Operational Count = CALCULATE(
+                        COUNT(RENEWABLE[Station Status]), RENEWABLE[Station Status] = "Operational")
+```
+
+```
+Non-Operational Count = CALCULATE(
+                            COUNT(RENEWABLE[Station Status]), RENEWABLE[Station Status] = "Not Operational")
+```
 Content for dax measures...
 
 ## ANALYSIS
