@@ -155,6 +155,17 @@ WHERE Record_Last_Updated_dd_mm_yyyy is not null
 
 
 
+
+![Power Station](assets/images/station_status.png)
+
+
+
+
+
+![Power Station](assets/images/regional_analysis.png)
+
+
+
 Three interactive dashboards were created
 
 https://github.com/Tolulope-Faseyiku/renewable-electricity-projects-analysis/assets/143544753/501c67f3-ed2f-4acb-bef9-91b804c2c92f
