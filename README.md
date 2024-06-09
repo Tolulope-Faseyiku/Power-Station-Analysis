@@ -185,15 +185,15 @@ Station Status = IF(RENEWABLE[Status] = "Operational",
 ```
 
 ```
-Operational Count = CALCULATE(
+Operational Projects = CALCULATE(
                         COUNT(RENEWABLE[Station Status]), RENEWABLE[Station Status] = "Operational")
 ```
 
 ```
-Non-Operational Count = CALCULATE(
+Non-Operational Projects = CALCULATE(
                             COUNT(RENEWABLE[Station Status]), RENEWABLE[Station Status] = "Not Operational")
 ```
-Content for dax measures...
+
 
 ## ANALYSIS
 Content for analysis...
