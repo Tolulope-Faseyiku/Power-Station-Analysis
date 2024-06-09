@@ -170,10 +170,11 @@ Three interactive dashboards were created showing the analysis results regarding
 ### Dax Measures
 
 
-```dax
-Non-Operational Count = CALCULATE(
-                            COUNT(RENEWABLE[Station Status]), RENEWABLE[Station Status] = "Not Operational")
 ```
+Number of Projects = COUNTROWS(RENEWABLE)
+```
+
+
 
 Content for dax measures...
 
