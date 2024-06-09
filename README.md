@@ -162,9 +162,8 @@ WHERE Record_Last_Updated_dd_mm_yyyy is not null
 
 
 
-Three interactive dashboards were created
+Three interactive dashboards were created showing the analysis results regarding the power installed, station status and regional analysis of the power stations.
 
-https://github.com/Tolulope-Faseyiku/renewable-electricity-projects-analysis/assets/143544753/501c67f3-ed2f-4acb-bef9-91b804c2c92f
 
 
 
