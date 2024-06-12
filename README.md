@@ -186,12 +186,14 @@ Station Status = IF(RENEWABLE[Status] = "Operational",
 
 ```
 Operational Projects = CALCULATE(
-                        COUNT(RENEWABLE[Station Status]), RENEWABLE[Station Status] = "Operational")
+                        COUNT(RENEWABLE[Station Status]),
+			RENEWABLE[Station Status] = "Operational")
 ```
 
 ```
 Non-Operational Projects = CALCULATE(
-                            COUNT(RENEWABLE[Station Status]), RENEWABLE[Station Status] = "Not Operational")
+				COUNT(RENEWABLE[Station Status]),
+				RENEWABLE[Station Status] = "Not Operational")
 ```
 
 
