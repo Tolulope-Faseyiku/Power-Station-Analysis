@@ -34,7 +34,6 @@ The project aims to analyse:
 </div>
 
 ## DATA SOURCE
-<div style="text-align: justify;">
 The data used for this project was pulled from the Renewable Energy Planning Database (REPD), the database has over 50 columns but I only needed to pull columns that had the following data: 
 -  Project location
 -  Operational status
@@ -42,7 +41,7 @@ The data used for this project was pulled from the Renewable Energy Planning Dat
 
  
 The data for this project can be downloaded from the [Renewable Energy Planning Database (REPD)](https://www.gov.uk/government/publications/renewable-energy-planning-database-monthly-extract)
-</div>
+
 
 ## TOOLS
 
