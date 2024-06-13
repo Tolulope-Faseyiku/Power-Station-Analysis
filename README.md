@@ -40,7 +40,6 @@ The data used for this project was pulled from the Renewable Energy Planning Dat
 -  Operational status
 -  Power capacity
 </div>
-
 <div style="text-align: justify;">
 The data for this project can be downloaded from the [Renewable Energy Planning Database (REPD)](https://www.gov.uk/government/publications/renewable-energy-planning-database-monthly-extract)
 </div>
