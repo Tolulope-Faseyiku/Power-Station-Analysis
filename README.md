@@ -17,8 +17,10 @@
   - [Dax Measures](#dax-measures)
 - [ANALYSIS](#analysis)
 - [RECOMMENDATIONS](#recommendations)
-- [CONCLUSIONS](#conclusions)## OBJECTIVES
+- [CONCLUSIONS](#conclusions)
 
+
+## OBJECTIVES
 <div style="text-align: justify;">
 This project contains data from the Renewable Energy Planning Database (REPD), managed by Barbour ABI on behalf of the Department of Business, Energy and Industrial Strategies (BEIS). The last update of the database was for the first quarter of 2024. It tracks the progress of renewable electricity projects in the United Kingdom from inception, through planning, construction, operation and decommissioning. It contains information on all Renewable Electricity and CHP (Combined Heat and Power) Projects in the United Kingdom.
 </div>
