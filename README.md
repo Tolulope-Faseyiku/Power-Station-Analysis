@@ -90,6 +90,8 @@ The data was accurate but incomplete due to the missing values. I immediately st
 The columns had the basic data needed as regards project location, operational status and power capacity, they just needed to be cleaned, prepared and properly formatted.
 </div>  
 
+
+
 ### Data Cleaning
 <div style="text-align: justify;">
 In context, Clean data should be consistent with uniform formats and standardized values, completeness is also ensured by having no missing values or handling them appropriately. Clean data should also be unique and be free of duplicates and only contain relevant information for analysis.
