@@ -59,10 +59,12 @@ The data for this project can be downloaded from the [Renewable Energy Planning 
 ### Dashboard Requirements
 <div style="text-align: justify;">
 The dashboard requirements formed the basis of my analysis, and they asked the following question:
+	
 -  Which project could deliver the most power?
 -  Which country had the most power to be delivered to?
 -  How many projects are operational compared to other statuses?
 -  Which region had the most operational and non-operational projects?
+
 </div>   
 
 ## STEPS
