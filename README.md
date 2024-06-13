@@ -208,6 +208,7 @@ England has 6766 projects across its regions, with less than 30% operational  an
 
 
 ## RECOMMENDATIONS
+-	With effciency an issue, just over 3% (369) of the total projects comply as CHP projects (Cobined Heat and Power), it is recommended that more projects should be pushed towars this direction due to its energy efficiency and performance compared to other non-CHP models.
 
 
 ## CONCLUSIONS
