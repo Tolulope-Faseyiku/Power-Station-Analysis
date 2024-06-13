@@ -25,14 +25,13 @@
 This project contains data from the Renewable Energy Planning Database (REPD), managed by Barbour ABI on behalf of the Department of Business, Energy and Industrial Strategies (BEIS). The last update of the database was for the first quarter of 2024. It tracks the progress of renewable electricity projects in the United Kingdom from inception, through planning, construction, operation and decommissioning. It contains information on all Renewable Electricity and CHP (Combined Heat and Power) Projects in the United Kingdom.
 </div>
 
-<div style="text-align: justify;">
 The project aims to analyse:
 -  Regions with the most power projects
 -  Trends in station capacity (power)
 -  Station status (Operational or otherwise)
 -  Regional breakdown of projects allocated and installed.
-</div>
 
+   
 ## DATA SOURCE
 The data used for this project was pulled from the Renewable Energy Planning Database (REPD), the database has over 50 columns but I only needed to pull columns that had the following data: 
 -  Project location
@@ -57,7 +56,7 @@ The data for this project can be downloaded from the [Renewable Energy Planning 
 ## DESIGN
 
 ### Dashboard Requirements
-<div style="text-align: justify;">
+
 The dashboard requirements formed the basis of my analysis, and they asked the following question:
 	
 -  Which project could deliver the most power?
@@ -65,11 +64,11 @@ The dashboard requirements formed the basis of my analysis, and they asked the f
 -  How many projects are operational compared to other statuses?
 -  Which region had the most operational and non-operational projects?
 
-</div>   
+   
 
 ## STEPS
 ### Algorithm Outline
-<div style="text-align: justify;">
+
 The general approach to the project is listed below:
 -  Perform data extraction from the source systems or data repositories to retrieve the necessary datasets for analysis.
 -  Transfer the extracted datasets into the SQL Server environment for storage and analysis
@@ -79,7 +78,7 @@ The general approach to the project is listed below:
 -  Analyze the insights from the data analysis and visualization process to generate actionable findings and recommendations.
 -  Write comprehensive documentation for the project, including detailed explanations of the data sources, methodology, analysis techniques, results, and conclusions
 -  Publish the project data and associated documentation to GitHub Pages for public access and dissemination.
-</div>  
+  
 
 ### Data Exploration
 <div style="text-align: justify;">
