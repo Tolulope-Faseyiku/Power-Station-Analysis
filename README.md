@@ -25,22 +25,20 @@
 This project contains data from the Renewable Energy Planning Database (REPD), managed by Barbour ABI on behalf of the Department of Business, Energy and Industrial Strategies (BEIS). The last update of the database was for the first quarter of 2024. It tracks the progress of renewable electricity projects in the United Kingdom from inception, through planning, construction, operation and decommissioning. It contains information on all Renewable Electricity and CHP (Combined Heat and Power) Projects in the United Kingdom.
 </div>
 
+
 The project aims to analyse:
 -  Regions with the most power projects
 -  Trends in station capacity (power)
 -  Station status (Operational or otherwise)
 -  Regional breakdown of projects allocated and installed.
 
-   
 ## DATA SOURCE
 The data used for this project was pulled from the Renewable Energy Planning Database (REPD), the database has over 50 columns but I only needed to pull columns that had the following data: 
 -  Project location
 -  Operational status
 -  Power capacity
 
- 
 The data for this project can be downloaded from the [Renewable Energy Planning Database (REPD)](https://www.gov.uk/government/publications/renewable-energy-planning-database-monthly-extract)
-
 
 ## TOOLS
 
@@ -56,19 +54,15 @@ The data for this project can be downloaded from the [Renewable Energy Planning 
 ## DESIGN
 
 ### Dashboard Requirements
-
 The dashboard requirements formed the basis of my analysis, and they asked the following question:
-	
 -  Which project could deliver the most power?
 -  Which country had the most power to be delivered to?
 -  How many projects are operational compared to other statuses?
--  Which region had the most operational and non-operational projects?
+-  Which region had the most operational and non-operational projects?   
 
-   
 
 ## STEPS
 ### Algorithm Outline
-
 The general approach to the project is listed below:
 -  Perform data extraction from the source systems or data repositories to retrieve the necessary datasets for analysis.
 -  Transfer the extracted datasets into the SQL Server environment for storage and analysis
@@ -77,33 +71,24 @@ The general approach to the project is listed below:
 -  Utilize Power BI to perform comprehensive analysis and visualization of the dataset
 -  Analyze the insights from the data analysis and visualization process to generate actionable findings and recommendations.
 -  Write comprehensive documentation for the project, including detailed explanations of the data sources, methodology, analysis techniques, results, and conclusions
--  Publish the project data and associated documentation to GitHub Pages for public access and dissemination.
-  
+-  Publish the project data and associated documentation to GitHub Pages for public access and dissemination.  
+
 
 ### Data Exploration
-<div style="text-align: justify;">
 At first glance, the downloaded data from the [Renewable Energy Planning Database (REPD)](https://www.gov.uk/government/publications/renewable-energy-planning-database-monthly-extract) was about 3.58 MB in size with the table having over fifty columns ane more than ten thousand rows of data, the data was not consistent with formatting and it had missing values in some columns.
 
-<div style="text-align: justify;">
 The data was accurate but incomplete due to the missing values. I immediately started thinking of ways to clean, correct and upgrade the data in terms of accuracy, quality, completeness and reliability.
 
-The columns had the basic data needed as regards project location, operational status and power capacity, they just needed to be cleaned, prepared and properly formatted.
-</div>  
-
-
+The columns had the basic data needed as regards project location, operational status and power capacity, they just needed to be cleaned, prepared and properly formatted. 
 
 ### Data Cleaning
-<div style="text-align: justify;">
 In context, Clean data should be consistent with uniform formats and standardized values, completeness is also ensured by having no missing values or handling them appropriately. Clean data should also be unique and be free of duplicates and only contain relevant information for analysis.
-</div>
 
-<div style="text-align: justify;">
 The aim was to refine the dataset to ensure proper structure and analysis. The clean data should meet the following requirements:
 -  Only relevant columns should be retained.
 -  All data types should be appropriate to the contents of each column.
 -  The columns should not have null values, null or missing values should be handled properly and documented.
 -  Rename columns with simple, correct, and readable names where possible.
-</div>  
 
 ####  Steps and SQL scripts for data cleaning
 ```SQL
@@ -111,6 +96,7 @@ The aim was to refine the dataset to ensure proper structure and analysis. The c
 SELECT *
 FROM repd_II;
 GO
+```
 
 ```SQL
 -- REMOVE UNWANTED COLUMNS
@@ -216,21 +202,18 @@ Non-Operational Projects = CALCULATE(
 
 
 ## ANALYSIS
-<div style="text-align: justify;">
 As of the first quarter of 2024, 9,844 projects were planned to cater for 214.916 MW of renewable power across the United Kingdom. The data points out the demand in England as it has been penned down to receive over 60% (129,000 MW) of the total renewable power with Scotland coming in second taking a distant 31% (68,000 MW), Wales and Northern Ireland taking planned to take a lowly 6.5% (14,000 MW) and 1.9% (4,000 MW) respectfully.
-</div>
 
-<div style="text-align: justify;">
+
 The projects planned to have the highest capacity were The East Anglia Array, Homsea 4, Dogger Bank, Homsea 3 and the Dinorwig, all built between 2018 and 2023. This was made obvious with the power trend going up with over 200% increase between 2018 and 2023, all these projects except for Dinorwig were built in England.
-</div>
 
-<div style="text-align: justify;">
-England has 6766 projects across its regions, with less than 30% operational  and the rest having a non-operational status to their name. Wales and Northern Ireland have 619 and 415 projects respectively  but has better operational projects status of 39% and 40%. 
-</div>
+
+England has 6766 projects across its regions, with less than 30% operational  and the rest having a non-operational status to their name. Wales and Northern Ireland has 619 and 415 projects respectively  but have better operational projects status of 39% and 40%. 
+
 
 ## RECOMMENDATIONS
 -	With efficiency an issue, just over 3% (369) of the total projects comply as CHP projects (Combined Heat and Power), it is recommended that more projects should be pushed in this direction due to their energy efficiency and performance compared to other non-CHP models.
--	With just over 29% (2,937) of the projects being operational, it is recommended that planning authorities should use the best of their abilities to get more projects to operational status and ultimately keep them there. 
+-	With just over 29% (2,937) of the projects being operational, it is recommended that planning authorities should use the best of their abilities to get more projects to operational status and subsequently keep them there. 
 
 
 ## CONCLUSIONS
