@@ -83,13 +83,10 @@ The general approach to the project is listed below:
 ### Data Exploration
 <div style="text-align: justify;">
 At first glance, the downloaded data from the [Renewable Energy Planning Database (REPD)](https://www.gov.uk/government/publications/renewable-energy-planning-database-monthly-extract) was about 3.58 MB in size with the table having over fifty columns ane more than ten thousand rows of data, the data was not consistent with formatting and it had missing values in some columns.
-</div>
 
 <div style="text-align: justify;">
 The data was accurate but incomplete due to the missing values. I immediately started thinking of ways to clean, correct and upgrade the data in terms of accuracy, quality, completeness and reliability.
-</div>
 
-<div style="text-align: justify;">
 The columns had the basic data needed as regards project location, operational status and power capacity, they just needed to be cleaned, prepared and properly formatted.
 </div>  
 
