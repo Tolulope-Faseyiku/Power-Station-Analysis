@@ -17,7 +17,7 @@
   - [Dax Measures](#dax-measures)
 - [ANALYSIS](#analysis)
 - [RECOMMENDATIONS](#recommendations)
-- [CONCLUSIONS](#conclusions)
+
 
 
 ## OBJECTIVES
