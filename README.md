@@ -202,14 +202,19 @@ Non-Operational Projects = CALCULATE(
 
 
 ## ANALYSIS
+<div style="text-align: justify;">
 As of the first quarter of 2024, 9,844 projects were planned to cater for 214.916 MW of renewable power across the United Kingdom. The data points out the demand in England as it has been penned down to receive over 60% (129,000 MW) of the total renewable power with Scotland coming in second taking a distant 31% (68,000 MW), Wales and Northern Ireland taking planned to take a lowly 6.5% (14,000 MW) and 1.9% (4,000 MW) respectfully.
+</div>
 
 
+<div style="text-align: justify;">
 The projects planned to have the highest capacity were The East Anglia Array, Homsea 4, Dogger Bank, Homsea 3 and the Dinorwig, all built between 2018 and 2023. This was made obvious with the power trend going up with over 200% increase between 2018 and 2023, all these projects except for Dinorwig were built in England.
+</div>
 
 
-England has 6766 projects across its regions, with less than 30% operational  and the rest having a non-operational status to their name. Wales and Northern Ireland has 619 and 415 projects respectively  but have better operational projects status of 39% and 40%. 
-
+<div style="text-align: justify;">
+England has 6766 projects across its regions, with less than 30% operational  and the rest having a non-operational status to their name. Wales and Northern Ireland have 619 and 415 projects respectively  but have better operational projects status of 39% and 40%. 
+</div>
 
 ## RECOMMENDATIONS
 -	With efficiency an issue, just over 3% (369) of the total projects comply as CHP projects (Combined Heat and Power), it is recommended that more projects should be pushed in this direction due to their energy efficiency and performance compared to other non-CHP models.
