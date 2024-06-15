@@ -1,5 +1,5 @@
 # RENEWABLE ELECTRICITY PROJECTS ANALYSIS
-![Power Station](assets/images/wind_turbine.png)
+![Power Station](assets/images/wind_turbine.jpg)
 
 
 ## TABLE OF CONTENTS
